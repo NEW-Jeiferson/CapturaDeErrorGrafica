@@ -1,4 +1,5 @@
 namespace CapturaDeErrorGrafica
+    //1,1
 {
     public partial class Form1 : Form
     {
